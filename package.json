@@ -20,7 +20,7 @@
     "modal",
     "react",
     "native",
-    "popup",
+    "popup"
   ],
   "bugs": {
     "url": "https://github.com/zubricky/react-native-android-modalissues"
