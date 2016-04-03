@@ -1,0 +1,29 @@
+{
+  "name": "react-native-android-modal",
+  "version": "0.1.0",
+  "description": "Modal component for Android to emulate the iOS version",
+  "main": "index.js",
+  "author": "Marc Zubricky <marc.zubricky@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.19.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubricky/react-native-android-modal,git"
+  },
+  "keywords": [
+    "android",
+    "modal",
+    "react",
+    "native",
+    "popup",
+  ],
+  "bugs": {
+    "url": "https://github.com/zubricky/react-native-android-modalissues"
+  },
+  "homepage": "https://github.com/zubricky/react-native-android-modal#readme"
+}
